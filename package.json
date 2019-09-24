@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/eusend/nativescript-videorecorder/issues"
   },
-  "homepage": "https://github.com/eusend/nativescript-videorecorder#readme"
+  "homepage": "https://github.com/eusend/nativescript-videorecorder#readme",
+  "dependencies": {}
 }
