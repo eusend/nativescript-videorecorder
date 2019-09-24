@@ -7,7 +7,7 @@ import './async-await';
 let androidSupport = null;
 declare var androidx: any;
 
-if (android.support && android.support.v4) {
+if (android.support && android.support.v4 && android.support.v4.content) {
   androidSupport = android.support.v4;
 } else if (androidx && androidx.core) {
   androidSupport = androidx.core;
